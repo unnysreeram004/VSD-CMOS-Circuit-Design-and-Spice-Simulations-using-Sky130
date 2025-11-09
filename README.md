@@ -1,2 +1,2 @@
 # VSD-CMOS-Circuit-Design-and-Spice-Simulations-using-Sky130
-Repo created during the course from VSD. 
+Please refer to the individual days to see the documentation for the labs.
