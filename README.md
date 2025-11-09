@@ -1,2 +1,2 @@
 # VSD-CMOS-Circuit-Design-and-Spice-Simulations-using-Sky130
-Please refer to the individual days to see the documentation for the labs.
+This repository was created as part of the course "CMOS-Circuit-Design-and-Spice-Simulations-using-Sky130" from VSD. Please refer to the directories titled _Day1, Day2_ etc. to see the corresponding documentation on the lab work. 
